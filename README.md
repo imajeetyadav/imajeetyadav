@@ -30,5 +30,4 @@ I love to learn and build something new, productive, innovative and creative.
 ![My github status](https://github-readme-stats.vercel.app/api?username=ajeetAk47&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetAk47&layout=compact)
 
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/ajeetAk47-hash">ajeetAk47-hash</a>
+
