@@ -1,5 +1,5 @@
 # Hi there 👋, Ajeet here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ajeetAk47-hash.repoName) <br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imAjeetYadav-hash.repoName) <br/>
 
 
 
@@ -23,11 +23,11 @@ I love to learn and build something new, productive, innovative and creative.
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetAk47" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imAjeetYadav" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=ajeetAk47&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetAk47&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=imAjeetYadav&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAjeetYadav&layout=compact)
 
 
