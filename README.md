@@ -1,5 +1,6 @@
 # Hi there 👋, Ajeet here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imAjeetYadav-hash.repoName) <br/>
+<a href="https://www.linkedin.com/in/imAjeetYadav/" rel="Linkedin: imAjeetYadav">![Linkedin: imAjeetYadav](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin)</a>
 
 
 
