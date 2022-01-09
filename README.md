@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/imAjeetYadav/" rel="Linkedin: imAjeetYadav">![Linkedin: imAjeetYadav](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin)</a>
 
 
-
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## About Me
@@ -20,7 +19,7 @@ I love to learn and build something new, productive, innovative and creative.
 - 📫 Reach out to me at: <a href="">yadavajeet.ak47@gmail.com</a>
 
 
-<h2>👀 My github Stats</h2>
+<h2> My github Stats</h2>
 
 <div>
   <p align="center">
