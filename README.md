@@ -9,7 +9,8 @@
 
 I love to learn and build something new, productive, innovative and creative.
 
-**I am interested in Flutter, Beckend and DevOps**
+**I am interested in Flutter, Backend and DevOps**
+
 - 🌱 I’m currently learning ...
   - Azure
   - Kubernetes 
