@@ -17,7 +17,6 @@ I love to learn and build something new, productive, innovative and creative.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
-- 📫 Reach out to me at: <a href="">yadavajeet.ak47@gmail.com</a>
 
 
 <h2> My github Stats</h2>
