@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/imAjeetYadav/" rel="Linkedin: imAjeetYadav">![Linkedin: imAjeetYadav](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin)</a>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## About Me
 
