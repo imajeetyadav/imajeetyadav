@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -19,26 +18,15 @@
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Azure](https://img.shields.io/badge/Azure-%234285F4.svg?style=for-the-badge&logo=azure-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
-<img src="https://img.shields.io/badge/Apple-MacBook_Air_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+![](https://img.shields.io/badge/Apple-MacBook_Air_2021-333333?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 
 ## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=imAjeetYadav&theme=minimal"/>
-</p>
+![](https://activity-graph.herokuapp.com/graph?username=imAjeetYadav&theme=minimal)
 
 ## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imAjeetYadav&theme=vue"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imAjeetYadav&theme=vue)
 
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imAjeetYadav&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imAjeetYadav&theme=vue" />
-</p>
-
-
-
-  
-
+![](https://github-readme-stats.vercel.app/api?username=imAjeetYadav&show_icons=true&theme=vue) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=imAjeetYadav&theme=vue)
