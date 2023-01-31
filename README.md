@@ -32,5 +32,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imAjeetYadav&theme=vue)
 
 ## 📟 GitHub Stats
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.notable.indepth.svg)
 
