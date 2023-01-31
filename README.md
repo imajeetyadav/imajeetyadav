@@ -30,3 +30,7 @@
 ## 📟 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=imAjeetYadav&show_icons=true&theme=vue) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imAjeetYadav&theme=vue)
+
+## 📟 GitHub Stats
+![Metrics](/github-metrics.svg)
+
