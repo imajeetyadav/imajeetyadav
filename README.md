@@ -93,10 +93,6 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ## 📈 Activity Graph
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark)
 
-## 💳 Github Profile Summary Card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imajeetyadav&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imajeetyadav&theme=github_dark)
-
 ## 📟 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=imAjeetYadav&show_icons=true&theme=dark) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imajeetyadav&theme=dark)](https://git.io/streak-stats)
