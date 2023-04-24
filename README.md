@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning more about Kubernetes.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: hello@codingprotocols.com
--  Check social links below.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im.ajeetyadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imajeetyadav)  [![Twitter](https://img.shields.io/twitter/follow/imAjeet_?logo=Twitter&style=for-the-badge)](https://twitter.com/imAjeet_)
