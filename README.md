@@ -16,7 +16,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 330.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,622 Contributions in the Year 2023
+> 🏆 1,633 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -61,33 +61,33 @@ Sunday                   313 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Docker                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-INI                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+YAML                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Docker                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Java                     22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 29/04/2023 00:31:19 UTC
+ Last Updated on 30/04/2023 00:34:35 UTC
 <!--END_SECTION:waka-->
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
