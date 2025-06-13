@@ -4,7 +4,6 @@
          width="45" /> I'm Ajeet Yadav</h1>
 
 # 💫 About Me
-- 😄 **Pronouns:** He/Him
 - 👨‍💻 **Software Engineer | DevOps Enthusiast | Cloud Practitioner**
 - 🌱 **Currently Exploring:** Advanced Kubernetes concepts, GitOps workflows, and Cloud-Native technologies.
 - 🏆 **Achievements:**  
