@@ -78,13 +78,16 @@
 
 ## 📊 More Stats & Graphs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imajeetyadav&layout=compact&theme=dark)
+<!-- Copy-paste in your Readme.md file -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imajeetyadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22760924" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22760924&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @imajeetyadav" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22760924&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-[![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imajeetyadav&theme=github-compact)](https://github.com/imAjeetYadav)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=imajeetyadav&style=for-the-badge&color=blue)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
 
