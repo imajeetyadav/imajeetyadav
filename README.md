@@ -80,9 +80,9 @@ Streamlining cluster onboarding and developer experience for modern engineering 
 
 ### 🌐 Let's Connect
 
-- **LinkedIn:** [ajeetyadav](https://linkedin.com/in/imajeetyadav)
+- **LinkedIn:** [imajeetyadav](https://linkedin.com/in/imajeetyadav)
 - **Twitter / X:** [@imAjeet_](https://twitter.com/imAjeet_)
-- **Website:** [codingprotocols.com](https://codingprotocols.com)
+- **Website:** [Coding Protocols](https://codingprotocols.com)
 - **Email:** [ajeet@codingprotocols.com](mailto:ajeet@codingprotocols.com)
 
 <br />
