@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="40" width="40" /> I'm Ajeet Yadav</h1>
-  <p><b>Lead Engineer @ <a href="https://github.com/codingprotocols">Coding Protocols</a></b></p>
+  <p><b>Founder @ <a href="https://github.com/codingprotocols">Coding Protocols</a></b></p>
   <p><i>Engineering standard-grade infrastructure for the cloud-native era.</i></p>
 </div>
 
@@ -12,7 +12,7 @@
 
 I am a **Software Engineer & DevOps Architect** dedicated to building high-performance, premium tooling for Platform Engineers and SREs. My work focuses on bridging the gap between complex cluster data and actionable engineering insights.
 
-- 🛠️ **Founder & Lead** of **Coding Protocols**, building the next generation of cloud-native tools.
+- 🛠️ **Founder & Architect** of **Coding Protocols**, building the next generation of cloud-native tools.
 - 🚀 **Flagship Project:** [Podscape](https://github.com/codingprotocols/podscape) — An AI-Ready, Native Kubernetes IDE with built-in MCP server.
 - 🤖 **AI + Infrastructure:** Currently focused on exposing Kubernetes clusters as tools for AI assistants (Claude, Cursor) via MCP.
 - ☁️ **Cloud Consulting:** Specialized in scaling, securing, and optimizing production K8s clusters (EKS/AKS) and CI/CD pipelines.
@@ -71,14 +71,14 @@ Streamlining cluster onboarding and developer experience for modern engineering 
 ### 📊 Engineering Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imajeetyadav&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajeetyadav&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imajeetyadav&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajeetyadav&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark" alt="Activity Graph" width="100%" />
 </div>
 
 ---
