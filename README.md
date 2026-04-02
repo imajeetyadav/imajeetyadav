@@ -33,49 +33,43 @@ Streamlining cluster onboarding and developer experience for modern engineering 
 
 ### 💻 Tech Stack & Expertise
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Core Technologies</b><br />
-      • <b>Go</b> (High-performance backends)<br />
-      • <b>TypeScript / React</b> (Premium Dashboards)<br />
-      • <b>Dart / Flutter</b> (Mobile diagnostics)<br />
-      • <b>Python / Bash</b> (Automation)
-    </td>
-    <td width="50%" valign="top">
-      <b>Infrastructure & DevOps</b><br />
-      • <b>Kubernetes</b> (Native operations, Operators)<br />
-      • <b>AWS / Azure / GCP</b> (Multi-cloud)<br />
-      • <b>Terraform</b> (Infrastructure as Code)<br />
-      • <b>GitHub Actions / GitLab CI</b> (Automation)
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Observability & Security</b><br />
-      • <b>Prometheus & Grafana</b><br />
-      • <b>Trivy / Security Scanning</b><br />
-      • <b>TLS Certificate Management</b>
-    </td>
-    <td width="50%" valign="top">
-      <b>Databases & Middleware</b><br />
-      • <b>Postgres / MySQL / Redis</b><br />
-      • <b>Nginx / Envoy / Istio</b><br />
-      • <b>Docker / Podman</b>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <b>Core Technologies</b><br />
+        • <b>Go</b> (High-performance backends)<br />
+        • <b>TypeScript / React</b> (Premium Dashboards)<br />
+        • <b>Dart / Flutter</b> (Mobile diagnostics)<br />
+        • <b>Python / Bash</b> (Automation)
+      </td>
+      <td width="50%" valign="top">
+        <b>Infrastructure & DevOps</b><br />
+        • <b>Kubernetes</b> (Native operations, Operators)<br />
+        • <b>AWS / Azure / GCP</b> (Multi-cloud)<br />
+        • <b>Terraform</b> (Infrastructure as Code)<br />
+        • <b>GitHub Actions / GitLab CI</b> (Automation)
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <b>Observability & Security</b><br />
+        • <b>Prometheus & Grafana</b><br />
+        • <b>Trivy / Security Scanning</b><br />
+        • <b>TLS Certificate Management</b>
+      </td>
+      <td width="50%" valign="top">
+        <b>Databases & Middleware</b><br />
+        • <b>Postgres / MySQL / Redis</b><br />
+        • <b>Nginx / Envoy / Istio</b><br />
+        • <b>Docker / Podman</b>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 📊 Engineering Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imajeetyadav&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajeetyadav&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark" alt="Activity Graph" width="100%" />
