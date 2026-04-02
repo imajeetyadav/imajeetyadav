@@ -1,105 +1,97 @@
-<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Ajeet Yadav</h1>
+<div align="center">
+  <h1>Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="40" width="40" /> I'm Ajeet Yadav</h1>
+  <p><b>Lead Engineer @ <a href="https://github.com/codingprotocols">Coding Protocols</a></b></p>
+  <p><i>Engineering standard-grade infrastructure for the cloud-native era.</i></p>
+</div>
 
-# 💫 About Me
-- 👨‍💻 **Software Engineer | DevOps Enthusiast | Cloud Practitioner**
-- 🌱 **Currently Exploring:** Advanced Kubernetes concepts, GitOps workflows, and Cloud-Native technologies.
-- 🏆 **Achievements:**  
-  - Built and deployed scalable microservices on AWS, Azure, and Google Cloud.
-  - Automated CI/CD pipelines using GitHub Actions, GitLab CI, and Jenkins.
-  - Led team projects on Flutter and Java, delivering robust, production-ready applications.
-  - Contributed to open-source tools and internal developer productivity frameworks.
-- 🧑‍🏫 **Mentor:** I enjoy helping others learn cloud and DevOps best practices.
-- 💬 **Ask Me About:** Kubernetes, Docker, Terraform, CI/CD, Cloud, Python, Java, Flutter, and DevOps workflows.
-- 📫 **Contact:**  
-  - Email: [ajeetyadav164@gmail.com](mailto:ajeetyadav164@gmail.com)  
-  - Feel free to connect for collaborations, consulting, or tech discussions!
+<br />
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im.ajeetyadav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imajeetyadav)
-[![Twitter](https://img.shields.io/twitter/follow/imAjeet_?logo=Twitter&style=for-the-badge)](https://twitter.com/imAjeet_)
+### 💫 About Me
+
+I am a **Software Engineer & DevOps Architect** dedicated to building high-performance, premium tooling for Platform Engineers and SREs. My work focuses on bridging the gap between complex cluster data and actionable engineering insights.
+
+- 🛠️ **Founder & Lead** of **Coding Protocols**, building the next generation of cloud-native tools.
+- 🚀 **Flagship Project:** [Podscape](https://github.com/codingprotocols/podscape) — An AI-Ready, Native Kubernetes IDE with built-in MCP server.
+- 🤖 **AI + Infrastructure:** Currently focused on exposing Kubernetes clusters as tools for AI assistants (Claude, Cursor) via MCP.
+- ☁️ **Cloud Consulting:** Specialized in scaling, securing, and optimizing production K8s clusters (EKS/AKS) and CI/CD pipelines.
 
 ---
 
-## 💻 Tech Stack & Tools
+### 📦 Featured Work
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+#### [Podscape](https://github.com/codingprotocols/podscape)
+**The AI-Ready Kubernetes IDE.**  
+Featuring a Go-powered real-time engine, integrated MCP server for AI tools, and a comprehensive security hub for TLS/Vulnerability tracking.
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Productivity & Design:**  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+#### [Pint](https://github.com/codingprotocols/pint)
+**High-performance internal developer platform assets.**  
+Streamlining cluster onboarding and developer experience for modern engineering teams.
 
 ---
 
-## 🚀 Projects & Interests
-- **Cloud-Native Development:** Microservices, serverless, and distributed systems.
-- **Mobile App Development:** Flutter apps for Android and iOS.
-- **Automation:** Infrastructure as Code, CI/CD pipeline design, test automation, cloud resource provisioning.
-- **Open-Source:** Regular contributor and advocate for collaborative coding.
-- **Continuous Learning:** Always exploring the latest in tech, DevOps, and software architecture.
+### 💻 Tech Stack & Expertise
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Core Technologies</b><br />
+      • <b>Go</b> (High-performance backends)<br />
+      • <b>TypeScript / React</b> (Premium Dashboards)<br />
+      • <b>Dart / Flutter</b> (Mobile diagnostics)<br />
+      • <b>Python / Bash</b> (Automation)
+    </td>
+    <td width="50%" valign="top">
+      <b>Infrastructure & DevOps</b><br />
+      • <b>Kubernetes</b> (Native operations, Operators)<br />
+      • <b>AWS / Azure / GCP</b> (Multi-cloud)<br />
+      • <b>Terraform</b> (Infrastructure as Code)<br />
+      • <b>GitHub Actions / GitLab CI</b> (Automation)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Observability & Security</b><br />
+      • <b>Prometheus & Grafana</b><br />
+      • <b>Trivy / Security Scanning</b><br />
+      • <b>TLS Certificate Management</b>
+    </td>
+    <td width="50%" valign="top">
+      <b>Databases & Middleware</b><br />
+      • <b>Postgres / MySQL / Redis</b><br />
+      • <b>Nginx / Envoy / Istio</b><br />
+      • <b>Docker / Podman</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 More Stats & Graphs
+### 📊 Engineering Stats
 
-<!-- Copy-paste in your Readme.md file -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imajeetyadav&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajeetyadav&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22760924" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22760924&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @imajeetyadav" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22760924&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<br />
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
-
-## 📈 Activity Graph
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark)
-
-## 📟 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=imajeetyadav&show_icons=true&theme=dark) 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=tokyonight" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
-## ✨ Fun Facts
-- 🎵 Music and tech keep me energized!
-- 🌍 Love to travel and explore new cultures.
-- 🥇 Believe in lifelong learning and knowledge sharing.
+### 🌐 Let's Connect
+
+- **LinkedIn:** [ajeetyadav](https://linkedin.com/in/imajeetyadav)
+- **Twitter / X:** [@imAjeet_](https://twitter.com/imAjeet_)
+- **Website:** [codingprotocols.com](https://codingprotocols.com)
+- **Email:** [ajeet@codingprotocols.com](mailto:ajeet@codingprotocols.com)
+
+<br />
+
+<div align="center">
+  <sub><i>"Built with precision. Operated with stability." — 2026</i></sub>
+</div>
