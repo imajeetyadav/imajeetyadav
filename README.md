@@ -73,7 +73,9 @@ Streamlining cluster onboarding and developer experience for modern engineering 
 ### 📊 Engineering Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark" alt="Activity Graph" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imajeetyadav&theme=github_dark" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imajeetyadav&hide_border=true&card_width=338&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imajeetyadav&theme=github_dark" />
 </div>
 
 ---
